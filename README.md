@@ -86,9 +86,9 @@ git push origin feature/YourFeature
 5.Open Pull Request
 
 ## 👤 Author
-NIKHIL VIJAY PATIL
+vilash kachare
 
 ## 💬 Support
-Email: nikpatil2123@gmail.com
+Email: vilashkachare@gmail.com
 
 
