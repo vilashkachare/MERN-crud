@@ -56,7 +56,7 @@ npm run start
 ## 📚 API Documentation
 Auth Endpoints
 ```bash
-POST /api/auth/register - Register new user
+POST /api/create - create new user
 POST /api/auth/login    - User login
 ```
 
